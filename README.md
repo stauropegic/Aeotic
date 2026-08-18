@@ -11,7 +11,7 @@ For the Basic Free Plan You get Acess to a Nuke Bot, Self bot, and Some Webhook 
 # Donations
 Keeping this running isn't easy, so any support is appreciated, here are the available options:
 Donate via:
-- Exodus Wallet:
+Exodus Wallet:
 BTC  ;  bc1qkluncjxpcl9nwxg0rxeafemse5mlsglvlulq2r
 ETH  ;  0xb7e4b3761301027Be5e9A117cA60599b0beB0bD9
 LTC  ;  LXzWsxH6RB3G5wAML9QB6kdeoHhmdXwfiF

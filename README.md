@@ -5,8 +5,9 @@
 #
 
 # Welcome to Aeotic
-Aeotic is a free Multitool made for discord with many features and options,
-For the Basic Free Plan You get Acess to a Nuke Bot, Self bot, and Some Webhook tools.
+Aeotic is a free Multitool made for discord with many features and options
+
+You get Access to a Nuke Bot, Self bot, Mass DM, Raider, ID -> Token, Webhook tools, Token Lookup, And more!
 
 
 

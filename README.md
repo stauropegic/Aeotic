@@ -7,8 +7,6 @@
 # Welcome to Aeotic
 Aeotic is a free Multitool made for discord with many features and options
 
-You get Access to a Nuke Bot, Self bot, Mass DM, Raider, ID -> Token, Webhook tools, Token Lookup, And more!
-
 <p align="center">
   <img width="1108" height="584" alt="image" src="https://github.com/user-attachments/assets/b1f09dc7-8f82-4960-8fe3-960d5acb16f2" />
 </p>
